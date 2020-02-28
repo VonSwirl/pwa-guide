@@ -1,0 +1,11 @@
+{
+"name": "aaaaaa",
+"short_name": "aaaaaa",
+"description": "aaaaaaa",
+"start_url": "/",
+"scope": "/",
+"display": "standalone",
+"theme_color": "#fff",
+"background_color": "#fff",
+"gcm_sender_id": "103953800507"
+}
